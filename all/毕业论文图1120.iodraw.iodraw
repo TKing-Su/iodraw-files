@@ -1,11 +1,16 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36 Edg/157.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="_phFcDqH_YSwSEzkRaeS">
-    <mxGraphModel dx="1188" dy="657" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1019" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HdVlqDjLv4fsr1KM2gBb-2" target="HdVlqDjLv4fsr1KM2gBb-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="162" />
+              <mxPoint x="190" y="207" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="HdVlqDjLv4fsr1KM2gBb-2" target="HdVlqDjLv4fsr1KM2gBb-3">
           <mxGeometry relative="1" as="geometry" />
@@ -14,7 +19,7 @@
           <mxGeometry x="90" y="127.43" width="67.54" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-3" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="213.95" y="96.63" width="70.62" height="52.5" as="geometry" />
+          <mxGeometry x="212.95" y="96.63" width="70.62" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-4" value="&lt;font face=&quot;Verdana&quot;&gt;变分自&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;编码器&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="201.25" y="108.93" width="80" height="30" as="geometry" />
