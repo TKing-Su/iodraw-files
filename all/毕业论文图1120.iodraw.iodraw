@@ -14,7 +14,7 @@
           <mxGeometry x="90" y="127.43" width="67.54" height="70" as="geometry" />
         </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-3" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="212.95" y="96.63" width="70.62" height="52.5" as="geometry" />
+          <mxGeometry x="211.95" y="96.63" width="70.62" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-4" value="&lt;font face=&quot;Verdana&quot;&gt;变分自&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;编码器&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="201.25" y="108.93" width="80" height="30" as="geometry" />
