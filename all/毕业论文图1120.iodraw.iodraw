@@ -17,7 +17,7 @@
           <mxGeometry x="210.95" y="179.38" width="70.62" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-6" value="&lt;font face=&quot;Verdana&quot;&gt;人脸&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;编码器&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="221.38" y="191.63" width="53.75" height="30" as="geometry" />
+          <mxGeometry x="210.38" y="191.63" width="53.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-9" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="490" y="60" width="80" height="126.25" as="geometry" />
