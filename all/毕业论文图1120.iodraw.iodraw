@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="HdVlqDjLv4fsr1KM2gBb-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HdVlqDjLv4fsr1KM2gBb-2" target="HdVlqDjLv4fsr1KM2gBb-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HdVlqDjLv4fsr1KM2gBb-2" target="HdVlqDjLv4fsr1KM2gBb-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -17,7 +14,7 @@
           <mxGeometry x="210.95" y="96.63" width="70.62" height="52.5" as="geometry" />
         </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-4" value="&lt;font face=&quot;Verdana&quot;&gt;变分自&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;编码器&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="199.25" y="108.93" width="80" height="30" as="geometry" />
+          <mxGeometry x="201.25" y="108.93" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HdVlqDjLv4fsr1KM2gBb-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="210.95" y="179.38" width="70.62" height="52.5" as="geometry" />
